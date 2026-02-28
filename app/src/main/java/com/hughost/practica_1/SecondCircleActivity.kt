@@ -5,14 +5,14 @@ import android.os.Bundle
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
 
-class MainActivity : AppCompatActivity() {
+class SecondCircleActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_second_circle)
 
-        val btnDescender = findViewById<Button>(R.id.btn_descender_alto)
-        btnDescender.setOnClickListener {
-            val intent = Intent(this, UpperHellActivity::class.java)
+        val btnCastigo = findViewById<Button>(R.id.btn_ver_castigo)
+        btnCastigo.setOnClickListener {
+            val intent = Intent(this, PunishmentActivity::class.java)
             startActivity(intent)
         }
     }
