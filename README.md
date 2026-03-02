@@ -3,7 +3,7 @@
 ** Git **
 ** GitHub **
 ** Node.js **
-
+─── ･ ｡ﾟ☆: .☽ . :☆ﾟ. ───Cruz Rodríguez Arely Amairani─── ･ ｡ﾟ☆: .☽ . :☆ﾟ. ───
 - Herrera Pelcastre Hugo Alejandro
 ** Android Studio **
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91bb4fdd-86a6-4ade-a045-16202ebd5627" />
