@@ -1,0 +1,21 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#FCE4EC">
+
+    <Button
+        android:id="@+id/btnGaleria"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ver Galería 🐾"/>
+
+    <Button
+        android:id="@+id/btnCuriosidades"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ver Curiosidades 😺"
+        android:layout_marginTop="16dp"/>
+
+</LinearLayout>

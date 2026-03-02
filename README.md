@@ -19,3 +19,22 @@
 
 ** Node.js **
 <img width="784" height="682" alt="image" src="https://github.com/user-attachments/assets/0dbad6b1-b743-4a5f-b3ea-86ab5ff1506a" />
+
+- Alfaro Alvarez Oscar Humberto 
+
+** Android Studio **
+
+
+** Java Development Kit (JDK) **
+
+
+** Git **
+
+
+** GitHub **
+
+
+** Node.js **
+
+
+** Docker Desktop **

@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="#FFF3E0"
+    android:orientation="vertical">
+
+    <TextView
+        android:text="🐾 Curiosidades Gatunas"
+        android:textSize="22sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:text="Los gatos pueden girar sus orejas 180 grados."
+        android:padding="16dp"/>
+
+</LinearLayout>

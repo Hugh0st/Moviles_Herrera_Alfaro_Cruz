@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
 ╔═══════════════════════════════════════════════════════════╗
-║  MICHI APP — activity_main.xml                           ║
-║  Estructura: ConstraintLayout                            ║
-║    ├── FragmentContainerView  (ocupa todo menos el nav)  ║
-║    └── BottomNavigationView   (anclado al fondo)         ║
+║  MICHI APP — activity_main.xml                            ║
+║  Estructura: ConstraintLayout                             ║
+║    ├── FragmentContainerView  (ocupa todo menos el nav)   ║
+║    └── BottomNavigationView   (anclado al fondo)          ║
 ╚═══════════════════════════════════════════════════════════╝
 
   Navegación en MainActivity.kt (sin Navigation Component):
@@ -35,8 +35,8 @@
     <!--
         ┌─────────────────────────────────┐
         │        FragmentContainerView    │
-        │  Ocupa desde el top hasta el   │
-        │  borde superior del BottomNav  │
+        │  Ocupa desde el top hasta el    │
+        │  borde superior del BottomNav   │
         └─────────────────────────────────┘
     -->
     <androidx.fragment.app.FragmentContainerView

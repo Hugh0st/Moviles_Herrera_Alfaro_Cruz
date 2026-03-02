@@ -1,0 +1,17 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="#E1F5FE"
+    android:orientation="vertical">
+
+    <TextView
+        android:text="🐱 Galería de Michis"
+        android:textSize="22sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:text="Aquí irían imágenes bonitas de gatos."
+        android:layout_marginTop="16dp"/>
+
+</LinearLayout>
