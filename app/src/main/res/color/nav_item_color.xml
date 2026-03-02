@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    State list para íconos y texto del BottomNavigationView.
+    - Activo (checked): rosa oscuro michi → elemento seleccionado bien visible
+    - Inactivo (default): lavanda oscuro → sutil pero legible sobre crema
+-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:color="@color/michi_pink_dark"
+        android:state_checked="true" />
+
+    <item android:color="@color/michi_lavender_dark" />
+
+</selector>

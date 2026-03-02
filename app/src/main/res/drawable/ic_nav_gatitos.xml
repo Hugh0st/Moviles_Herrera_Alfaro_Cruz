@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Icono: Huella de gato (pata) — 24dp -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Almohadilla central (óvalo grande) -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M12,13
+                          C9.24,13 7,14.79 7,17
+                          C7,19.21 9.24,21 12,21
+                          C14.76,21 17,19.21 17,17
+                          C17,14.79 14.76,13 12,13 Z" />
+
+    <!-- Dedito: exterior izquierdo -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M5.5,9.5
+                          C4.4,9.5 3.5,10.4 3.5,11.5
+                          C3.5,12.6 4.4,13.5 5.5,13.5
+                          C6.6,13.5 7.5,12.6 7.5,11.5
+                          C7.5,10.4 6.6,9.5 5.5,9.5 Z" />
+
+    <!-- Dedito: interior izquierdo -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M9.5,7.25
+                          C8.53,7.25 7.75,8.03 7.75,9
+                          C7.75,9.97 8.53,10.75 9.5,10.75
+                          C10.47,10.75 11.25,9.97 11.25,9
+                          C11.25,8.03 10.47,7.25 9.5,7.25 Z" />
+
+    <!-- Dedito: interior derecho -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M14.5,7.25
+                          C13.53,7.25 12.75,8.03 12.75,9
+                          C12.75,9.97 13.53,10.75 14.5,10.75
+                          C15.47,10.75 16.25,9.97 16.25,9
+                          C16.25,8.03 15.47,7.25 14.5,7.25 Z" />
+
+    <!-- Dedito: exterior derecho -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M18.5,9.5
+                          C17.4,9.5 16.5,10.4 16.5,11.5
+                          C16.5,12.6 17.4,13.5 18.5,13.5
+                          C19.6,13.5 20.5,12.6 20.5,11.5
+                          C20.5,10.4 19.6,9.5 18.5,9.5 Z" />
+
+</vector>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_gatitos"
+        android:icon="@drawable/ic_nav_gatitos"
+        android:title="Gatitos" />
+
+    <item
+        android:id="@+id/nav_curiosidades"
+        android:icon="@drawable/ic_nav_curiosidades"
+        android:title="Curiosidades" />
+
+</menu>

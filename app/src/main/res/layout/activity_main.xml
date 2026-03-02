@@ -1,25 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<!--
+╔═══════════════════════════════════════════════════════════╗
+║  MICHI APP — activity_main.xml                           ║
+║  Estructura: ConstraintLayout                            ║
+║    ├── FragmentContainerView  (ocupa todo menos el nav)  ║
+║    └── BottomNavigationView   (anclado al fondo)         ║
+╚═══════════════════════════════════════════════════════════╝
+
+  Navegación en MainActivity.kt (sin Navigation Component):
+  ──────────────────────────────────────────────────────────
+  bottomNav.setOnItemSelectedListener { item ->
+      val fragment = when (item.itemId) {
+          R.id.nav_gatitos      -> GatitosFragment()
+          R.id.nav_curiosidades -> CuriosidadesFragment()
+          else -> return@setOnItemSelectedListener false
+      }
+      supportFragmentManager.beginTransaction()
+          .replace(R.id.fragment_container, fragment)
+          .commit()
+      true
+  }
+  // Mostrar fragmento inicial:
+  bottomNav.selectedItemId = R.id.nav_gatitos
+-->
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    android:gravity="center"
-    android:background="#1C1C1C">
+    android:background="@color/michi_cream">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Las Puertas del Infierno"
-        android:textColor="#FFFFFF"
-        android:textSize="28sp"
-        android:textStyle="bold"
-        android:layout_marginBottom="32dp"/>
+    <!--
+        ┌─────────────────────────────────┐
+        │        FragmentContainerView    │
+        │  Ocupa desde el top hasta el   │
+        │  borde superior del BottomNav  │
+        └─────────────────────────────────┘
+    -->
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fragment_container"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@color/michi_cream"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/bottom_nav"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:layout_editor_absoluteY="0dp" />
 
-    <Button
-        android:id="@+id/btn_descender_alto"
-        android:layout_width="wrap_content"
+    <!--
+        ┌─────────────────────────────────────────┐
+        │         BottomNavigationView            │
+        │  Fondo crema con esquinas redondeadas   │
+        │  Indicador activo: rosa michi           │
+        │  Iconos: pata y estrella                │
+        └─────────────────────────────────────────┘
+    -->
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottom_nav"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:text="Abandonar toda esperanza y entrar"
-        android:backgroundTint="#8B0000"/>
-</LinearLayout>
+        android:background="@drawable/nav_background"
+        android:elevation="12dp"
+        android:paddingTop="6dp"
+        android:paddingBottom="8dp"
+        app:menu="@menu/bottom_nav_menu"
+        app:itemIconTint="@color/nav_item_color"
+        app:itemTextColor="@color/nav_item_color"
+        app:itemIconSize="26dp"
+        app:labelVisibilityMode="labeled"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:layout_editor_absoluteY="770dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

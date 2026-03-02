@@ -1,9 +1,58 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.Practica_1" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+    <!--
+    ╔════════════════════════════════════════════════════════╗
+    ║         MICHI APP — Material3 Theme (Light)            ║
+    ║   Paleta: Rosa · Lila · Azul Cielo · Crema            ║
+    ╚════════════════════════════════════════════════════════╝
+    -->
+
+    <style name="Base.Theme.Practica_1" parent="Theme.Material3.Light.NoActionBar">
+
+        <!-- ── PRIMARY: Rosa Michi ──────────────────────────── -->
+        <item name="colorPrimary">@color/michi_pink</item>
+        <item name="colorOnPrimary">@color/michi_on_pink</item>
+        <item name="colorPrimaryContainer">@color/michi_pink_container</item>
+        <item name="colorOnPrimaryContainer">@color/michi_pink_dark</item>
+
+        <!-- ── SECONDARY: Lavanda Michi ─────────────────────── -->
+        <item name="colorSecondary">@color/michi_lavender</item>
+        <item name="colorOnSecondary">@color/michi_on_lavender</item>
+        <item name="colorSecondaryContainer">@color/michi_lavender_container</item>
+        <item name="colorOnSecondaryContainer">@color/michi_lavender_dark</item>
+
+        <!-- ── TERTIARY: Azul Cielo Michi ───────────────────── -->
+        <item name="colorTertiary">@color/michi_sky</item>
+        <item name="colorOnTertiary">@color/michi_on_sky</item>
+        <item name="colorTertiaryContainer">@color/michi_sky_container</item>
+        <item name="colorOnTertiaryContainer">@color/michi_sky_dark</item>
+
+        <!-- ── SURFACE & BACKGROUND: Crema Michi ───────────── -->
+        <item name="colorSurface">@color/michi_surface</item>
+        <item name="colorOnSurface">@color/michi_on_surface</item>
+        <item name="colorSurfaceVariant">@color/michi_cream</item>
+        <item name="colorOnSurfaceVariant">@color/michi_on_cream</item>
+        <item name="android:colorBackground">@color/michi_cream</item>
+
+        <!-- ── OUTLINE ────────────────────────────────────────  -->
+        <item name="colorOutline">@color/michi_outline</item>
+        <item name="colorOutlineVariant">@color/michi_outline_variant</item>
+
+        <!-- ── TIPOGRAFÍA ─────────────────────────────────────  -->
+        <item name="android:textColorPrimary">@color/michi_on_surface</item>
+        <item name="android:textColorSecondary">@color/michi_pink_dark</item>
+
     </style>
 
     <style name="Theme.Practica_1" parent="Base.Theme.Practica_1" />
+
+    <!--
+        Forma circular para ShapeableImageView.
+        Uso: app:shapeAppearanceOverlay="@style/ShapeAppearance.App.CircleImage"
+    -->
+    <style name="ShapeAppearance.App.CircleImage" parent="ShapeAppearance.Material3.Corner.Full">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
 </resources>

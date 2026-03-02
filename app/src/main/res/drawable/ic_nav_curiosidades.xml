@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Icono: Estrella de 4 puntas (destellito / curiosidad) — 24dp -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Estrella de 4 puntas estilo sparkle -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M12,2
+                          L14,10
+                          L22,12
+                          L14,14
+                          L12,22
+                          L10,14
+                          L2,12
+                          L10,10
+                          Z" />
+
+    <!-- Pequeña estrella decorativa superior derecha -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M19,3
+                          L19.7,5.3
+                          L22,6
+                          L19.7,6.7
+                          L19,9
+                          L18.3,6.7
+                          L16,6
+                          L18.3,5.3
+                          Z" />
+
+    <!-- Punto decorativo inferior izquierdo -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M5,17
+                          C5,17.55 4.55,18 4,18
+                          C3.45,18 3,17.55 3,17
+                          C3,16.45 3.45,16 4,16
+                          C4.55,16 5,16.45 5,17 Z" />
+
+</vector>

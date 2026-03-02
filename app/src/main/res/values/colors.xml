@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+
+    <!-- ╔══════════════════════════════════════════╗ -->
+    <!-- ║        MICHI PALETTE — Base Colors       ║ -->
+    <!-- ╚══════════════════════════════════════════╝ -->
+
+    <!-- Rosa Pastel -->
+    <color name="michi_pink">#FFADC5</color>          <!-- Rosa principal suave -->
+    <color name="michi_pink_light">#FFD6E4</color>    <!-- Rosa muy claro (superficies) -->
+    <color name="michi_pink_dark">#C97B95</color>     <!-- Rosa oscuro (on-container) -->
+    <color name="michi_pink_container">#FFDDE8</color><!-- Contenedor rosa -->
+    <color name="michi_on_pink">#3B0020</color>       <!-- Texto/icono sobre rosa -->
+
+    <!-- Lila / Lavanda -->
+    <color name="michi_lavender">#C9AADC</color>      <!-- Lila principal suave -->
+    <color name="michi_lavender_light">#E8D6F5</color><!-- Lila muy claro (superficies) -->
+    <color name="michi_lavender_dark">#7A549A</color> <!-- Lila oscuro (on-container) -->
+    <color name="michi_lavender_container">#EFE0FF</color><!-- Contenedor lila -->
+    <color name="michi_on_lavender">#200040</color>   <!-- Texto/icono sobre lila -->
+
+    <!-- Azul Cielo Pastel -->
+    <color name="michi_sky">#AACDE8</color>           <!-- Azul principal suave -->
+    <color name="michi_sky_light">#D6EDF8</color>     <!-- Azul muy claro (superficies) -->
+    <color name="michi_sky_dark">#4A86A8</color>      <!-- Azul oscuro (on-container) -->
+    <color name="michi_sky_container">#D8EEFF</color> <!-- Contenedor azul -->
+    <color name="michi_on_sky">#001E30</color>        <!-- Texto/icono sobre azul -->
+
+    <!-- Crema / Blanco Cálido -->
+    <color name="michi_cream">#FFF4E6</color>         <!-- Crema principal (fondo) -->
+    <color name="michi_cream_warm">#FDEBD0</color>    <!-- Crema cálido (superficies alt.) -->
+    <color name="michi_cream_dark">#C8A97A</color>    <!-- Crema oscuro (detalles) -->
+    <color name="michi_on_cream">#2C1A06</color>      <!-- Texto sobre crema -->
+
+    <!-- Neutros -->
+    <color name="michi_white">#FFFFFFFF</color>
+    <color name="michi_black">#FF000000</color>
+    <color name="michi_surface">#FFFBFE</color>       <!-- Superficie general (casi blanco) -->
+    <color name="michi_on_surface">#3D2C35</color>    <!-- Texto principal (marrón suave) -->
+    <color name="michi_outline">#D4B8C4</color>       <!-- Bordes sutiles -->
+    <color name="michi_outline_variant">#F0E0E8</color><!-- Bordes muy sutiles -->
+
 </resources>
