@@ -3,7 +3,6 @@
 ** Git **
 ** GitHub **
 ** Node.js **
-─── ･ ｡ﾟ☆: .☽ . :☆ﾟ. ───Cruz Rodríguez Arely Amairani─── ･ ｡ﾟ☆: .☽ . :☆ﾟ. ───
 - Herrera Pelcastre Hugo Alejandro
 ** Android Studio **
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/91bb4fdd-86a6-4ade-a045-16202ebd5627" />
@@ -46,3 +45,47 @@
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/81e8f268-bd77-43e7-8110-c09ae48e7df6" />
 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢎⠱⠊⡱⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠤⠒⠒⠒⠒⠤⢄⣑⠁⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⡤⠒⠝⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠲⢄⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⡴⠋⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⢰⣢⠐⡄⠀⠉⠑⠒⠒⠒⣄
+⠀⠀⠀⣀⠴⠋⠀⠀⠀⡎⠀⠘⠿⠀⠀⢠⣀⢄⡢⠉⣔⣲⢸⠀⠀⠀⠀⠀⠀⢘
+⡠⠒⠉⠀⠀⠀⠀⠀⡰⢅⠫⠭⠝⠀⠀⠀⠀⠀⠀⢀⣀⣤⡋⠙⠢⢄⣀⣀⡠⠊
+⢇⠀⠀⠀⠀⠀⢀⠜⠁⠀⠉⡕⠒⠒⠒⠒⠒⠛⠉⠹⡄⣀⠘⡄⠀⠀⠀⠀⠀⠀
+⠀⠑⠂⠤⠔⠒⠁⠀⠀⡎⠱⡃⠀⠀⡄⠀⠄⠀⠀⠠⠟⠉⡷⠁⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⠤⠤⠴⣄⡸⠤⣄⠴⠤⠴⠄⠼⠀⠀⠀⠀⠀⠀⠀⠀
+
+─── ･ ｡ﾟ☆: .☽ . :☆ﾟ. ───Cruz Rodríguez Arely Amairani─── ･ ｡ﾟ☆: .☽ . :☆ﾟ. ───
+
+** Android Studio **
+<img width="1917" height="1068" alt="image" src="https://github.com/user-attachments/assets/d54fcfa4-952a-43e5-b9f7-ce930895bc7d" />
+
+** Java Development Kit (JDK) **
+
+<img width="1170" height="278" alt="image" src="https://github.com/user-attachments/assets/8ddb5e42-8d86-46f9-9257-421e0fbf89e1" />
+
+** Git **
+
+<img width="1038" height="421" alt="image" src="https://github.com/user-attachments/assets/e046f5d8-fcb5-451c-8471-33ba827a4ed4" />
+
+** GitHub **
+
+<img width="1901" height="1054" alt="image" src="https://github.com/user-attachments/assets/9ad9072f-d3bf-4917-948d-69e68cd9caa2" />
+
+** Node.js **
+
+<img width="584" height="208" alt="image" src="https://github.com/user-attachments/assets/d5f3233f-9698-4491-acaa-9e748db86f62" />
+
+** Docker Desktop **
+
+<img width="1916" height="1077" alt="image" src="https://github.com/user-attachments/assets/5e93f08a-2b63-4965-9b46-d935f122ba89" />
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢎⠱⠊⡱⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠤⠒⠒⠒⠒⠤⢄⣑⠁⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⡤⠒⠝⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠲⢄⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⡴⠋⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⢰⣢⠐⡄⠀⠉⠑⠒⠒⠒⣄
+⠀⠀⠀⣀⠴⠋⠀⠀⠀⡎⠀⠘⠿⠀⠀⢠⣀⢄⡢⠉⣔⣲⢸⠀⠀⠀⠀⠀⠀⢘
+⡠⠒⠉⠀⠀⠀⠀⠀⡰⢅⠫⠭⠝⠀⠀⠀⠀⠀⠀⢀⣀⣤⡋⠙⠢⢄⣀⣀⡠⠊
+⢇⠀⠀⠀⠀⠀⢀⠜⠁⠀⠉⡕⠒⠒⠒⠒⠒⠛⠉⠹⡄⣀⠘⡄⠀⠀⠀⠀⠀⠀
+⠀⠑⠂⠤⠔⠒⠁⠀⠀⡎⠱⡃⠀⠀⡄⠀⠄⠀⠀⠠⠟⠉⡷⠁⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⠤⠤⠴⣄⡸⠤⣄⠴⠤⠴⠄⠼⠀⠀⠀⠀⠀⠀⠀⠀
