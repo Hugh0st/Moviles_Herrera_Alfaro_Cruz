@@ -24,17 +24,25 @@
 
 ** Android Studio **
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a95af651-b73a-481a-b387-726504efa667" />
 
 ** Java Development Kit (JDK) **
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/97f49148-edcd-4f7c-bd96-31c09a3e8429" />
 
 ** Git **
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ef2a0424-34ee-498d-b1cf-d70ab518368b" />
 
 ** GitHub **
 
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/4589af46-0ba0-4fb3-b71e-fc1f9e80a611" />
 
 ** Node.js **
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/780e2f58-8b70-4d03-bbb3-1548bbc70489" />
 
 ** Docker Desktop **
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/81e8f268-bd77-43e7-8110-c09ae48e7df6" />
+
