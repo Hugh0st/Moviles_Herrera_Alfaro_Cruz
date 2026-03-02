@@ -6,11 +6,15 @@
     android:orientation="vertical">
 
     <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:text="🐱 Galería de Michis"
         android:textSize="22sp"
         android:textStyle="bold"/>
 
     <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:text="Aquí irían imágenes bonitas de gatos."
         android:layout_marginTop="16dp"/>
 
